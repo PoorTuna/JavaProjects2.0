@@ -1,21 +1,21 @@
 
 public class ArrayObject
 {
-	private int nigger;
+	private int int_obj;
 	
 	public ArrayObject()
 	{
-		this.nigger = 0;
+		this.int_obj = 0;
 	}
 	
 	public void setNumber(int number)
 	{
-		this.nigger = number;
+		this.int_obj = number;
 	}
 	
 	public int getNumber()
 	{
-		return this.nigger;
+		return this.int_obj;
 	}
 	
 	
