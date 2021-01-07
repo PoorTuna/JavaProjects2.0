@@ -1,5 +1,5 @@
-enum sex{
-	retard,
+enum str_list{
+	man,
 	ptds,
 	lmao,
 	ayo
@@ -11,9 +11,9 @@ public class enumtest
 	
 	public static void main(String[] args){
 
-		String[] sex1 = {"1-","-","3-","-","5-","-","7-","-","9-"};
+		String[] str_list1 = {"1-","-","3-","-","5-","-","7-","-","9-"};
 		
-		for( sex i : sex.values()){
+		for( str_list i : str_list.values()){
 			System.out.println(i);
 		}
 	}
