@@ -1,18 +1,18 @@
 
 public class rassia
 {
-	private int[] nigger;
-	private int nigger2;
+	private int[] int_list;
+	private int int_val;
 	
-	public void setnigger()
+	public void setValue()
 	{
-		this.nigger = new int[10];
-		this.nigger2 = 10;
+		this.int_list = new int[10];
+		this.int_val = 10;
 	}
 	
-	public int getNigger()
+	public int getValue()
 	{
-		return this.nigger2;
+		return this.int_val;
 	}
 	
 	
