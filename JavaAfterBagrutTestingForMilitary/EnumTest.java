@@ -4,9 +4,9 @@ public class EnumTest
 	
 	public static void Main(String args[]){
 		
-		int[] sex = {1,2,3,4,5,6,7,8,9};
+		int[] int_list = {1,2,3,4,5,6,7,8,9};
 		
-		for( int i : sex){
+		for( int i : int_list){
 			System.out.println(i);
 		}
 	}
